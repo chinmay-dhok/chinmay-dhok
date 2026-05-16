@@ -2,13 +2,16 @@
 
 **Senior Information Security Analyst | Cloud Infrastructure Expert | Technical Leader**
 
-Security professional focused on hardening cloud infrastructure and enforcing rigorous governance standards. I combine operational expertise with strategic risk management to build secure, scalable systems that bridge the gap between high-velocity engineering and compliance.
+*Security Professional | Cloud Orchestrator | Simplifying Connectivity & Empowering Teams*
 
-### 🚀 What I Do
-* **Orchestrate platform-wide compliance strategies** (ISO 27001, SOC 2, GDPR) and mitigate critical supply chain risks to harden the software development lifecycle.
-* **Design secure network architectures** for massive workforces, enhancing stability and reducing vulnerabilities.
-* **Manage cross-location teams**, fostering collaboration and consistently delivering projects on time and within budget.
-* **Empower Teams** by bridging the gap between high-velocity cloud technologies and rigorous security governance.
+Security professional with 6 years of experience focused on hardening cloud infrastructure and enforcing rigorous governance standards. Combines operational expertise with strategic risk management to build secure, scalable systems that bridge the gap between high-velocity engineering and compliance.
+
+### 🚀 Highlights of career include:
+* **Orchestration of platform-wide compliance strategies** (ISO 27001, SOC 2, GDPR) and mitigation of critical supply chain risks to harden the software development lifecycle.
+* **Successful migration of 200+ workloads to Azure DevOps**, resulting in a 15% efficiency boost and a 20% cost reduction.
+* **Design and implementation of a secure network architecture** for a 1500-person workforce, enhancing stability and reducing security vulnerabilities.
+* **Management of cross-location teams of 20+ members**, fostering collaboration and consistently delivering projects on time and within budget.
+* **Deeply passionate about bridging the gap** between high-velocity cloud technologies and rigorous security governance to share knowledge with the community.
 
 ---
 
@@ -25,4 +28,6 @@ Here are some of the other projects I've been working on:
 ### 📫 Let's Connect
 
 - **Email**: [chinmaydhok2013@gmail.com](mailto:chinmaydhok2013@gmail.com)
+- **Phone**: +91 7023755730
 - **LinkedIn**: [linkedin.com/in/chinmaydhok](https://linkedin.com/in/chinmaydhok)
+- **Webpage Portfolio**: [chinmay-dhok.github.io/propositions](https://chinmay-dhok.github.io/propositions)
