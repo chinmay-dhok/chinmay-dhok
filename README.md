@@ -12,13 +12,6 @@ Security professional focused on hardening cloud infrastructure and enforcing ri
 
 ---
 
-### 🌐 My Business Plan & Services
-I've outlined a comprehensive Strategic IT & Cloud Security Solutions business plan. You can view the interactive, hosted version below:
-
-👉 **[View My Strategic IT Business Plan](https://chinmay-dhok.github.io/business-plan/)**
-
----
-
 ### 🛠️ Featured Projects & Repositories
 
 Here are some of the other projects I've been working on:
