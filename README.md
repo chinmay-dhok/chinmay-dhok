@@ -6,7 +6,7 @@
   <br>
   
   <p align="center">
-    <a href="https://github.com/chinmay-dhok/resume"><img src="https://img.shields.io/badge/Download_My_Resumes-EA4335?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+    <a href="https://chinmay-dhok.github.io/resume/"><img src="https://img.shields.io/badge/Interactive_Portfolio-EA4335?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
     <a href="mailto:chinmaydhok2013@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/chinmaydhok"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/chinmay-dhok"><img src="https://img.shields.io/badge/GitHub-252525?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -27,16 +27,17 @@
 
 ---
 
-## 📥 Access My Resumes & Documents
+## 🌐 Explore My Career Portfolio
 
-> 💡 **Recruiters & Hiring Managers:** I maintain multiple versions of my resume to best suit different ATS constraints and stylistic preferences. You can download all PDFs directly from my **[Resume Repository](https://github.com/chinmay-dhok/resume)**.
+> 💡 **Recruiters & Hiring Managers:** Instead of scrolling through raw GitHub files, please visit my dedicated, interactive career portal. There you can view, download, and review my Modern Resume, Classic Resumes, Cover Letter, and my Master Accomplishments Log.
 
-| Document Type | Description | Link |
-|:---|:---|:---|
-| 📄 **Resume (2026 Edition)** | ATS-optimized, punchy bullet points with high visual impact. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_2026.pdf) |
-| 📄 **Classic Resume (Full)** | Traditional styling with detailed, cleanly summarized paragraph experiences. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_Classic.pdf) |
-| 📄 **Classic Resume (Summary)** | Concise two-page traditional summary of core experiences. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_Classic_Summary.pdf) |
-| 📝 **Cover Letter** | A structured overview highlighting my Zero-Trust \& DevSecOps achievements. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Cover_Letter.pdf) |
+<div align="center">
+  <br>
+  <a href="https://chinmay-dhok.github.io/resume/">
+    <img src="https://img.shields.io/badge/Access%20My%20Live%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Access Portfolio" />
+  </a>
+  <br><br>
+</div>
 
 ---
 
