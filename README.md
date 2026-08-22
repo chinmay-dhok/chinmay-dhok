@@ -35,7 +35,7 @@
 |:---|:---|:---|
 | 📄 **Modern Resume (2026)** | ATS-optimized, punchy bullet points with high visual impact. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_2026.pdf) |
 | 📝 **Cover Letter** | A structured overview highlighting my Zero-Trust \& DevSecOps achievements. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Cover_Letter.pdf) |
-| 📈 **Self-Assessment** | Deep-dive self-assessment of strategic impact and technical execution. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Self_Assessment_2025_2026.pdf) |
+| 🏆 **Master Accomplishments** | Comprehensive log of 2026 security initiatives and infrastructure scaling. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Master_Accomplishments_Public.pdf) |
 
 ---
 
