@@ -42,9 +42,9 @@
 
 ## 🛡️ Who I Am
 
-I am a security-focused engineering leader with **6+ years of progressive experience** scaling enterprise cloud environments. My career is defined by a successful evolution from deep systems engineering (architecting networks for 1500+ users across Azure/AWS) to my current focus: **Enterprise Information Security, Governance, and Zero-Trust Architecture**.
+I am a security-focused engineering leader with **6+ years of progressive experience** scaling enterprise cloud environments. My career is defined by a successful evolution from deep systems engineering (architecting networks for 1500+ users across Azure/AWS) to my current focus: **Enterprise Information Security, Zero-Trust Architecture, and AI-Assisted DevSecOps**.
 
-> **My Core Value Proposition:** I possess the operational depth to build and migrate massive cloud infrastructures, combined with the strategic oversight required to secure them against modern threats and stringent compliance frameworks (SOC 2, GDPR, CCPA).
+> **My Core Value Proposition:** I possess the operational depth to build and migrate massive cloud infrastructures, combined with the strategic oversight required to secure them against modern threats, integrate AI-driven security workflows, and guarantee stringent enterprise compliance (SOC 2, ISO 27001, GDPR).
 
 ---
 
@@ -69,6 +69,7 @@ I am a security-focused engineering leader with **6+ years of progressive experi
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🛡️ [**GCP Zero-Trust Architecture**](https://github.com/chinmay-dhok/GCP-Zero-Trust-Architecture) | Production-grade PAM framework and VPN-to-Tailscale migration defined as IaC. | `Terraform` `GCP` `Tailscale` |
+| 🎯 [**Internal VAPT AI Workflow**](https://github.com/chinmay-dhok/vapt-ai-workflow) | AI-assisted methodology for replicating vulnerabilities, re-rating CVSS, and producing reports. | `BurpSuite` `Nuclei` `Markdown` |
 | 🔍 [**Automated Compliance Auditor**](https://github.com/chinmay-dhok/Automated-Compliance-Auditor) | LLM-powered platform to monitor ISO 27001/SOC 2 and auto-answer vendor questionnaires. | `Python` `Gemini` `Scrut` |
 | 🔗 [**Supply Chain Security Hardening**](https://github.com/chinmay-dhok/Supply-Chain-Security-Hardening) | Org-wide dependency auditing, CVE remediation, and CI/CD security pipelines. | `GitHub Actions` `Python` |
 | 🤖 [**DevFlowBot (AI PR Agent)**](https://github.com/chinmay-dhok/DevFlowBot-Gemini-3-Pro-GitHubPR) | Autonomous agent for automating frontend workflows with human-in-the-loop QA gates. | `Gemini API` `GitHub` |
