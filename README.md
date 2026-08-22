@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://github.com/chinmay-dhok">
-    <img src="profile.jpg" width="160" alt="Chinmay Dhok" />
-  </a>
-  <br><br>
   <h1>Chinmay Dhok</h1>
   <br>
   <h3>Senior Information Security Analyst & Cloud Architect</h3>
