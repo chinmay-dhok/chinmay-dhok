@@ -33,8 +33,9 @@
 
 | Document Type | Description | Link |
 |:---|:---|:---|
-| 📄 **Resume** | ATS-optimized, punchy bullet points with high visual impact. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_2026.pdf) |
-| 📄 **Classic Resume** | Traditional styling with cleanly summarized paragraph experiences. | [View LaTeX Source](https://github.com/chinmay-dhok/resume/blob/main/latex-source/Chinmay_Dhok_Resume_Classic.tex) |
+| 📄 **Resume (2026 Edition)** | ATS-optimized, punchy bullet points with high visual impact. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_2026.pdf) |
+| 📄 **Classic Resume (Full)** | Traditional styling with detailed, cleanly summarized paragraph experiences. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_Classic.pdf) |
+| 📄 **Classic Resume (Summary)** | Concise two-page traditional summary of core experiences. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_Classic_Summary.pdf) |
 | 📝 **Cover Letter** | A structured overview highlighting my Zero-Trust \& DevSecOps achievements. | [View PDF](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Cover_Letter.pdf) |
 
 ---
