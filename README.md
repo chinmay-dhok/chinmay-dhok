@@ -6,7 +6,7 @@
   <br>
   
   <p align="center">
-    <a href="https://chinmay-dhok.github.io/resume/"><img src="https://img.shields.io/badge/Interactive_Portfolio-EA4335?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+    <a href="https://chinmay-dhok.github.io/"><img src="https://img.shields.io/badge/Interactive_Portfolio-EA4335?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
     <a href="mailto:chinmaydhok2013@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://linkedin.com/in/chinmaydhok"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/chinmay-dhok"><img src="https://img.shields.io/badge/GitHub-252525?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -33,7 +33,7 @@
 
 <div align="center">
   <br>
-  <a href="https://chinmay-dhok.github.io/resume/">
+  <a href="https://chinmay-dhok.github.io/">
     <img src="https://img.shields.io/badge/Access%20My%20Live%20Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Access Portfolio" />
   </a>
   <br><br>
