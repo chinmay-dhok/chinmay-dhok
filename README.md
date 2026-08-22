@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/chinmay-dhok">
-    <img src="profile.jpg" width="160" height="160" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="Chinmay Dhok" />
+    <img src="profile.jpg" width="160" alt="Chinmay Dhok" />
   </a>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0066cc&height=120&section=header&text=Chinmay%20Dhok&fontSize=60&fontColor=1a1a2e" />
+  <br><br>
+  <h1>Chinmay Dhok</h1>
   <br>
   <h3>Senior Information Security Analyst & Cloud Architect</h3>
   <p><i>Bridging the gap between high-velocity engineering and rigorous enterprise compliance.</i></p>
