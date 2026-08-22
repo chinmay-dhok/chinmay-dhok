@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=250&section=header&text=Chinmay%20Dhok&fontSize=70&fontColor=ffffff" />
+  <img src="profile.jpeg" width="180" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Chinmay Dhok" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=180&section=header&text=Chinmay%20Dhok&fontSize=60&fontColor=ffffff" />
 </div>
 
 <h1 align="center">Senior Information Security Analyst & Cloud Architect</h1>
@@ -9,10 +11,21 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/chinmay-dhok/resume"><img src="https://img.shields.io/badge/Download_My_Resumes-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:chinmaydhok2013@gmail.com"><img src="https://img.shields.io/badge/Email-0066cc?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/chinmaydhok"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://chinmay-dhok.github.io/propositions"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/chinmay-dhok"><img src="https://img.shields.io/badge/GitHub-252525?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## 📥 Get My Resumes & Documents
+
+I maintain multiple versions of my resume to best suit different recruiter preferences and ATS constraints. You can find all source files and PDFs in my **[Resume Repository](https://github.com/chinmay-dhok/resume)**.
+
+* 📄 **[Modern Resume (2026 ATS-Optimized)](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_2026.tex)** - *Best for modern systems with punchy, action-oriented bullet points.*
+* 📄 **[Classic Resume (Summarized)](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Resume_Classic.tex)** - *Traditional styling with cleanly summarized paragraph experiences.*
+* 📝 **[Professional Cover Letter](https://github.com/chinmay-dhok/resume/blob/main/Chinmay_Dhok_Cover_Letter_2026.tex)** - *ModernCV styled cover letter highlighting my Zero-Trust achievements.*
 
 ---
 
