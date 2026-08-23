@@ -95,13 +95,13 @@ I am a security-focused engineering leader with **6+ years of progressive experi
 <summary><b>View Microsoft Certifications (Click to Expand)</b></summary>
 <br>
   
-- [**Microsoft Certified: Information Security Administrator Associate** (SC-401)](https://learn.microsoft.com/en-us/users/chinmaydhokmaqsoftware-5822/credentials/a1cf65d95f479d50)
-- [**Microsoft Certified: Identity and Access Administrator** (SC-300)](https://learn.microsoft.com/en-us/users/chinmaydhokmaqsoftware-5822/credentials/59a68cc7be408e04)
-- [**Microsoft Certified: Azure Network Engineer Associate** (AZ-700)](https://learn.microsoft.com/en-us/users/chinmaydhokmaqsoftware-5822/credentials/9329188e7a858597)
-- [**Microsoft Certified: Azure Security Engineer Associate** (AZ-500)](https://learn.microsoft.com/en-us/users/chinmaydhokmaqsoftware-5822/credentials/13c8e434db03407e)
-- [**Microsoft 365 Certified: Security Administrator Associate** (MS-500)](https://learn.microsoft.com/en-us/users/chinmaydhokmaqsoftware-5822/credentials/c0ae1a2902b51750)
-- [**Microsoft Certified: Security Operations Analyst Associate** (SC-200)](https://learn.microsoft.com/en-us/users/ChinmayDhokMAQSoftware-5822/credentials/E22E4108C28D9FF2)
-- [**Microsoft Certified: Azure Administrator Associate** (AZ-104)](https://learn.microsoft.com/en-us/users/chinmaydhokmaqsoftware-5822/credentials/ccf1857230b93a53)
+- **Microsoft Certified: Information Security Administrator Associate** (SC-401)
+- **Microsoft Certified: Identity and Access Administrator** (SC-300)
+- **Microsoft Certified: Azure Network Engineer Associate** (AZ-700)
+- **Microsoft Certified: Azure Security Engineer Associate** (AZ-500)
+- **Microsoft 365 Certified: Security Administrator Associate** (MS-500)
+- **Microsoft Certified: Security Operations Analyst Associate** (SC-200)
+- **Microsoft Certified: Azure Administrator Associate** (AZ-104)
 
 </details>
 
